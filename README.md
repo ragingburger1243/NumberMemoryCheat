@@ -16,3 +16,9 @@ Start the test in the browser, press Enter in the terminal, and let it handle th
 
 ## Disclaimer
 For educational purposes only — a fun project to learn about screen automation in Python.
+
+
+## Other Cheats for Humanbenchmark
+- https://github.com/ragingburger1243/AimTrainerCheat
+- https://github.com/ragingburger1243/WordMemoryCheat
+- https://github.com/ragingburger1243/ReactionTestCheat
